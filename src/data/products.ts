@@ -18,7 +18,7 @@ export const products = [
     name: "Matcha Ceremonial",
     description: "Highest grade Japanese matcha for traditional preparation",
     price: 39.99,
-    image: "https://images.unsplash.com/photo-1536251576833-8f2eead8a3bc?auto=format&fit=crop&q=80"
+    image: "https://images.unsplash.com/photo-1582793988951-9aed5509eb97?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9"
   },
   {
     id: 4,
@@ -39,6 +39,6 @@ export const products = [
     name: "Hojicha Roasted",
     description: "Roasted Japanese green tea with a warm, toasty flavor",
     price: 22.99,
-    image: "https://images.unsplash.com/photo-1563822249548-496b68412f27?auto=format&fit=crop&q=80"
+    image: "https://images.unsplash.com/photo-1546852199-2d8e8c4aaada?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8Mnx8Z3JlZW4lMjB0ZWF8fDB8fHx8MTYyNDQ1MTcyNQ&ixlib=rb-1.2.1&q=80&w=1080"
   }
 ];
